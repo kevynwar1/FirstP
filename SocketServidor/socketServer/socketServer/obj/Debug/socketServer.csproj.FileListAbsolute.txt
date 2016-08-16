@@ -1,0 +1,12 @@
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\bin\Debug\socketServer.exe.config
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\bin\Debug\socketServer.exe
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\bin\Debug\socketServer.pdb
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.csprojResolveAssemblyReference.cache
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.Form1.resources
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.Properties.Resources.resources
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.csproj.GenerateResource.Cache
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.exe
+C:\Users\ABCD\Desktop\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.pdb
+C:\Users\h_kev\Desktop\C#\SocketServidor\socketServer\socketServer\bin\Debug\socketServer.exe.config
+C:\Users\h_kev\Desktop\C#\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.exe
+C:\Users\h_kev\Desktop\C#\SocketServidor\socketServer\socketServer\obj\Debug\socketServer.pdb

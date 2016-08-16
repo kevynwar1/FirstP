@@ -1,0 +1,9 @@
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\bin\Debug\Caixa01.exe.config
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\bin\Debug\Caixa01.exe
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\bin\Debug\Caixa01.pdb
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\obj\Debug\Caixa01.csprojResolveAssemblyReference.cache
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\obj\Debug\Caixa01.Form1.resources
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\obj\Debug\Caixa01.Properties.Resources.resources
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\obj\Debug\Caixa01.csproj.GenerateResource.Cache
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\obj\Debug\Caixa01.exe
+C:\Users\pessoal\Desktop\C#\Caixa01\Caixa01\obj\Debug\Caixa01.pdb

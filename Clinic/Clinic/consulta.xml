@@ -1,0 +1,37 @@
+<consulta>
+  <consulta_paciente>
+    <paciente>Bruno Kevin</paciente>
+    <tipo_consulta>Cardiologica</tipo_consulta>
+    <data>25/05/2016</data>
+    <horario>14:30</horario>
+    <medico>Ivo Pitangui</medico>
+  </consulta_paciente>
+  <consulta_paciente>
+    <paciente>Kaique Eduardo</paciente>
+    <tipo_consulta>Pediatrica</tipo_consulta>
+    <data>27/05/2016</data>
+    <horario>15:15</horario>
+    <medico>Ivo Pitangui</medico>
+  </consulta_paciente>
+  <consulta_paciente>
+    <paciente>Bruno Kevin</paciente>
+    <tipo_consulta>Cardiologica</tipo_consulta>
+    <data>23/05/2016</data>
+    <horario>15:30</horario>
+    <medico>João Luiz</medico>
+  </consulta_paciente>
+  <consulta_paciente>
+    <paciente>Mario Carlos</paciente>
+    <tipo_consulta>Odontologica</tipo_consulta>
+    <data>23/05/2016</data>
+    <horario>11:00</horario>
+    <medico>Alexandre Pithon</medico>
+  </consulta_paciente>
+  <consulta_paciente>
+    <paciente>Bruno Kevin</paciente>
+    <tipo_consulta>Odontologica</tipo_consulta>
+    <data>02/06/2016</data>
+    <horario>08:45</horario>
+    <medico>Alexandre Pithon</medico>
+  </consulta_paciente>
+</consulta>

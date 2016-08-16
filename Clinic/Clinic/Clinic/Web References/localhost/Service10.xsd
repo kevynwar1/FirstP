@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:56822/Service1.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" />
+  <xs:element name="insertConsulta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bCos" nillable="true" type="q1:BConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="insertConsultaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="insertConsultaResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="alterConsulta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bCos" nillable="true" type="q2:BConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="alterConsultaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="alterConsultaResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteConsulta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bCos" nillable="true" type="q3:BConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="deleteConsultaResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listAdministrador">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bAdm" nillable="true" type="q4:BAdministrador" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listAdministradorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="listAdministradorResult" nillable="true" type="q5:ArrayOfBAdministrador" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listConsulta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bCos" nillable="true" type="q6:BConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listConsultaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="listConsultaResult" nillable="true" type="q7:ArrayOfBConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listPaciente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bPac" nillable="true" type="q8:BPaciente" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listPacienteResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="listPacienteResult" nillable="true" type="q9:ArrayOfBPaciente" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listMedico">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bMed" nillable="true" type="q10:BMedico" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listMedicoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q11="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="listMedicoResult" nillable="true" type="q11:ArrayOfBMedico" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listTipoConsulta">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q12="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="bTip" nillable="true" type="q12:BTipoConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listTipoConsultaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q13="http://schemas.datacontract.org/2004/07/BibliotecaClasses.model.basic" minOccurs="0" name="listTipoConsultaResult" nillable="true" type="q13:ArrayOfBTipoConsulta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

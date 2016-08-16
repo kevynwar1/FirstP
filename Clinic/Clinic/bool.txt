@@ -1,0 +1,8 @@
+/*bool resultado, naoUsado;
+                service.alterConsulta(bCos, out resultado, out naoUsado);
+                if(resultado) {
+                    listarConsulta();
+                    splitUpdate.Visible = false;
+                } else {
+                    MessageBox.Show(bAdm.Nome + "\nVocê não pode remarcar uma consulta na mesma data e horário \nonde o médico tem outra consulta marcada.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                } */
